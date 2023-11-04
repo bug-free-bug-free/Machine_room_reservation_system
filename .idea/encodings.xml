@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/cmake-build-debug/admin.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/cmake-build-debug/order.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/cmake-build-debug/student.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/cmake-build-debug/teacher.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/main.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/manager.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/orderfile.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/student.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/teacher.cpp" charset="GBK" />
+  </component>
+</project>
